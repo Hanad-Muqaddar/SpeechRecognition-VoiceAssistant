@@ -1,0 +1,17 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    
+    "editor.mouseWheelZoom": true,
+    "files.autoSave": "onFocusChange",
+    "editor.fontSize": 18,
+    "editor.cursorStyle": "line",
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "workbench.colorTheme": "Default High Contrast",
+    "python.autoComplete.addBrackets": true,
+    "editor.tabCompletion": true,
+    "python.autoComplete.extraPaths": [],
+    "python.autoComplete.preloadModules": []
+
+}
